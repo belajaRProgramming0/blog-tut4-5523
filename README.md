@@ -6,3 +6,4 @@
 
 - DON'T CHANGE AND TOUCH THE -site FOLDER!!
 
+- When rendering the website, use Terminal and type `quarto render` rather than render button on top navbar.
